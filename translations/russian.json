@@ -2,7 +2,7 @@
     "ITEM_TYPE_AIR"                                             : "Air",
     "ITEM_TYPE_MANTLE_DEFAULT_BASE"                             : "Mantle",
     "LIQUID_WATER"                                              : "Water",
-    "LIQUID_LAVA"                                               : "Lava",
+    "NOT_A_THING"                                               : "Not a thing!",
 
     "ITEM_TYPE_SOIL_SILTY_BASE"                                 : "Silty Soil",
     "ITEM_TYPE_SOIL_SILTY_BASE_SUBTITLE"                        : "Common Natural Block",
