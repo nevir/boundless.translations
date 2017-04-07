@@ -9,5 +9,12 @@
   "files": [
     "*.md",
     "translations/*.json"
-  ]
+  ],
+  "scripts": {
+    "test": "./scripts/validate.js",
+    "validate": "./scripts/validate.js"
+  },
+  "devDependencies": {
+    "lodash": "^4.17.4"
+  }
 }
